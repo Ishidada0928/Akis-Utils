@@ -1,0 +1,16 @@
+[
+{
+  "modid": "akisutils",
+  "name": "Aki's utils",
+  "description": "This is a required prerequisite mod for the mod I am creating. \nNo changes are made to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Ishidada0928",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
