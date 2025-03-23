@@ -1,0 +1,7 @@
+commands.akisutils.usage=/akisutils <option>
+commands.akisutils.npkill.usage=/akisutils npkill
+commands.akisutils.pos.usage=/akisutils pos
+commands.akisutils.world_info.usage=/akisutils world_info
+commands.akisutils.ore_dict.usage=/akisutils ore_dict
+commands.akisutils.tick.usage=/akisutils tick \n/akisutils tick reset <blank/entity/tile> \n/akisutils tick set <entity/tile> [tick]
+commands.akisutils.chunk.usage=/akisutils chunk [regenerate] [pos_x] [pos_z]

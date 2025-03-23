@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.aki.akisutils.mixins",
+  "refmap": "akisutils.refmap.json",
+  "minVersion": "0.7.3",
+  "compatibilityLevel": "JAVA_8",
+  "plugin": "com.aki.akisutils.mixins.configs.MixinLoaderConfig",
+  "mixins": [
+
+  ],
+  "client": [
+    "minecraft.MixinWorld"
+  ]
+}
