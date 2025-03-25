@@ -169,7 +169,7 @@ public class ShaderProgram {
      * Auto Attach
      * */
     public void pop() {
-        if(PROGRAM_STACK.size() > 0)
+        if(!PROGRAM_STACK.isEmpty())
             UseProgram(PROGRAM_STACK.removeInt(PROGRAM_STACK.size() - 1));
     }
 

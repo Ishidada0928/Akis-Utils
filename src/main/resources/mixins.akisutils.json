@@ -6,9 +6,11 @@
   "compatibilityLevel": "JAVA_8",
   "plugin": "com.aki.akisutils.mixins.configs.MixinLoaderConfig",
   "mixins": [
-
+    "minecraft.renderhooks.MixinMinecraft"
   ],
   "client": [
-    "minecraft.MixinWorld"
+    "minecraft.renderhooks.MixinRenderGlobal",
+    "minecraft.MixinWorld",
+    "minecraft.MixinGuiOverlayDebug"
   ]
 }

@@ -25,7 +25,7 @@ apply plugin: "com.github.johnrengelman.shadow"
 group = 'com.aki'
 version = 'v1.0.0-mc1.12.2'
 
-project.release.tagStrategy.prefixNameWithV = false
+//project.release.tagStrategy.prefixNameWithV = false
 
 java {
     archivesBaseName = 'akisutils'
